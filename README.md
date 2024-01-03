@@ -9,9 +9,9 @@ Ce projet a été développé pour reproduire l'apparence de la page des images 
 
 ## Captures d'écran
 
-![Capture d'écran de la page d'accueil](./img/google-image1.png)
+![Capture d'écran de la page d'accueil](./img/google-image-1.png)
 
-![Capture d'écran de la page d'accueil](./img/google-image2.png)
+![Capture d'écran de la page d'accueil](./img/google-image-2.png)
 
 ## Comment utiliser
 
